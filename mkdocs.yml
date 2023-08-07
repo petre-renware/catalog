@@ -8,8 +8,9 @@ copyright: 'Copyright (c) RENware Software Systems'
 nav:
     - Home: 'index.md' # here is the system init as being default html to be executed
     - Products catalog: 'wip_page.md' #TODO make an entry page for this catalog section
-    - Solutions: 'wip_page.md' #TODO make an entry page for this catalog section
-    #TODO- About SDEVEN: 'About_SDEVEN.md'
+    - Solutions catalog: 'wip_page.md' #TODO make an entry page for this catalog section
+    - Services catalog: 'wip_page.md' #TODO make an entry page for this catalog section
+    #- About CATALOG: 'About_CATALOG.md' #TODO make this page
     - License: 'LICENSE.md'
     - RENware Software Systems company: 'http://www.renware.eu'
     #TODO- Complete Catalog (PDF): 'pdfs/print_page.html/print_page.pdf'
