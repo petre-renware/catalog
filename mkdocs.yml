@@ -6,11 +6,14 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 
 nav:
-    - Home: 'index.md'
-    #TODO- About SDEVEN: 'About_SDEVEN.md'
+    - Home: 'index.md' # here is the system init as being default html to be executed
+    - Products catalog: 'wip_page.md' #TODO make a lead page for this catalog section
+    - Solutions catalog: 'wip_page.md' #TODO make a lead page for this catalog section #NOTE here to ralk about complex, combined, platforms, ...
+    - Services catalog: 'http://www.renware.eu/services.html' #TODO_? make a lead page for this catalog section
+    - About CATALOG: 'wip_page.md' #TODO make page 'About_CATALOG.md' and change to
     - License: 'LICENSE.md'
     - RENware Software Systems company: 'http://www.renware.eu'
-    #TODO- Complete Catalog (PDF): 'pdfs/print_page.html/print_page.pdf'
+    - Complete Catalog (PDF): 'wip_page.md' #TODO_change_to 'pdfs/print_page.html/print_page.pdf'
 
 
 
