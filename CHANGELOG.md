@@ -1,6 +1,6 @@
 <small>(c) 2021 - 2023 RENware Software Systems</small>
 
-**RENware Products & Servives Catalog**
+**RENware Products & Services Catalog**
 
 
 ***
@@ -21,11 +21,11 @@
 
 ## 1.0 system init & first build
 
+<!--#FIXME ------------------------------ FUTURE PLANS ----------------------->
 ### future... 1.0.0-release first system
 
 * tbd... after system is able to init and at least load data in Jinja usable variables, PUBLISH 1.0.0
-
-
+<!--#FIXME ------------------------------ end of FUTURE PLANS ----------------------->
 
 
 
@@ -41,6 +41,7 @@
   * [ ] create data variables in `mkdocs.yml` that will be accesed in markdown pages (consider an extension of `mkdocs.yml`)
 
 
+* 230807piu_c corrections and facelifts for site skeleton
 * 230807piu_b make first level navigation structure
 * 230807piu_a build administrative work files (CHANGELOG, ...) and `mkdocs.yml` clean
 
