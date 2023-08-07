@@ -21,7 +21,17 @@
 
 ## 1.0 system init & first build
 
-### 0.0.1 build blocks
+### future... 1.0.0-release first system
+
+* tbd... after system is able to init and at least load data in Jinja usable variables, PUBLISH 1.0.0
+
+
+
+
+
+
+
+### wip... 0.0.1-releaae build blocks (#FIXME yymmddhHH:MM)
 
 * tbd... design `index.md` makes all sys init:
   * [ ] get req data from `dataapi.renware.eu`
@@ -31,8 +41,19 @@
   * [ ] create data variables in `mkdocs.yml` that will be accesed in markdown pages (consider an extension of `mkdocs.yml`)
 
 
-* wip... 230807piu_b make first level navigation structure
+* 230807piu_b make first level navigation structure
 * 230807piu_a build administrative work files (CHANGELOG, ...) and `mkdocs.yml` clean
+
+
+
+
+
+
+
+
+
+
+
 
 
 
