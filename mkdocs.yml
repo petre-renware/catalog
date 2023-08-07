@@ -10,7 +10,7 @@ nav:
     #TODO- About SDEVEN: 'About_SDEVEN.md'
     - License: 'LICENSE.md'
     - RENware Software Systems company: 'http://www.renware.eu'
-    #TODO- Complete SDEVEN Manual (PDF): 'pdfs/print_page.html/print_page.pdf'
+    #TODO- Complete Catalog (PDF): 'pdfs/print_page.html/print_page.pdf'
 
 
 
@@ -59,7 +59,7 @@ plugins:
     # - pdf-export #NOTE DO NOT USE this as does not render mermaid in PDF docs
     - print-site: #NOTE_IMPORTANT_#NOTE put `print-site` plug in BEFORE `pdf-with-js` in order to works the workaround wit a fake `print_page.md` that will determine generation of 'print_page.pdf' as any other page generated pdf by `pdf-with-js`; ingnore warning ` [mkdocs-print-site] 'print-site' should be defined as the *last* plugin,to ensure...`
         add_to_navigation: true
-        print_page_title: 'Complete SDEVEN Manual'
+        print_page_title: 'Complete Catalog'
         add_full_urls: true
         add_table_of_contents: true
     - pdf-with-js:
@@ -106,7 +106,7 @@ plugins:
 
 #NOTE provide material theme
 theme:
-    logo: pictures/SDEVEN_logo.png #NOTE_REN_picture pictures/REN_stamp_logo_transparent.png
+    #logo: pictures/SDEVEN_logo.png #NOTE_REN_picture pictures/REN_stamp_logo_transparent.png #FIXME uodate me
     name: material
     features:
         # - navigation.tabs # left navigation side bar, all level 1 will be shown as top navigation bar
@@ -114,7 +114,7 @@ theme:
         - navigation.tabs.sticky
         - navigation.path
     palette:
-        primary: teal # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
+        primary: pink # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
         accent: blue
     icon:
         admonition:
