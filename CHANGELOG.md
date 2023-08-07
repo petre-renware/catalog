@@ -23,6 +23,15 @@
 
 ### 0.0.1 build blocks
 
+* tbd... design `index.md` makes all sys init:
+  * [ ] get req data from `dataapi.renware.eu`
+  * [ ] separe whole `JSON` data in small `JSON` chunks, like a smaller a more manageable entity
+  * [ ] filter if necessary all `JSON` files
+  * [ ] save final `JSON` files in `doc_src/data`
+  * [ ] create data variables in `mkdocs.yml` that will be accesed in markdown pages (consider an extension of `mkdocs.yml`)
+
+
+* wip... 230807piu_b make first level navigation structure
 * 230807piu_a build administrative work files (CHANGELOG, ...) and `mkdocs.yml` clean
 
 
