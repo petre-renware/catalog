@@ -31,7 +31,7 @@
 
 
 
-### wip... 0.0.1-releaae build blocks (#FIXME yymmddhHH:MM)
+### wip... 0.0.1-release build blocks (#FIXME yymmddhHH:MM)
 
 * tbd... design `index.md` makes all sys init:
   * [ ] get req data from `dataapi.renware.eu`
