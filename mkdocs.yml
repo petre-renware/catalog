@@ -10,7 +10,7 @@ nav:
     - Products catalog: 'wip_page.md' #TODO make an entry page for this catalog section
     - Solutions catalog: 'wip_page.md' #TODO make an entry page for this catalog section
     - Services catalog: 'wip_page.md' #TODO make an entry page for this catalog section
-    #- About CATALOG: 'About_CATALOG.md' #TODO make this page
+    - About CATALOG: 'wip_page.md' #TODO make page 'About_CATALOG.md' and change to
     - License: 'LICENSE.md'
     - RENware Software Systems company: 'http://www.renware.eu'
     - Complete Catalog (PDF): 'wip_page.md' #TODO_change_to 'pdfs/print_page.html/print_page.pdf'
