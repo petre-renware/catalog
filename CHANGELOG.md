@@ -39,7 +39,7 @@
   * [ ] create data variables in `mkdocs.yml` that will be accesed in markdown pages (consider an extension of `mkdocs.yml`)
 
 
-* ... 230815piu_a created a working directory `doc_src/wip_products_categories/` with _Product business categories_ and some pictures to use for. Not referred yet, for work purposes. (data is according to product register from `dataapi.renware.eu`
+* 230815piu_a created a working directory `doc_src/wip_products_categories/` with _Product business categories_ and some pictures to use for. Not referred yet, for work purposes. (data is according to product register from `dataapi.renware.eu`
 
 * 230807piu_c corrections and facelifts for site skeleton
 * 230807piu_b make first level navigation structure
