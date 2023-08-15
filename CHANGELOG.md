@@ -21,17 +21,15 @@
 
 ## 1.0 system init & first build
 
-<!--#FIXME ------------------------------ FUTURE PLANS ----------------------->
-### future... 1.0.0-release first system
+<!--#TODO--- FUTURE PLAN ---------------------->
 
 * tbd... after system is able to init and at least load data in Jinja usable variables, PUBLISH 1.0.0
-<!--#FIXME ------------------------------ end of FUTURE PLANS ----------------------->
+
+<!--#TODO --- end of FUTURE PLAN ----------------------->
 
 
 
-
-
-### wip... 0.0.1-release build blocks (#FIXME yymmddhHH:MM)
+### 0.0.1-release catalog build blocks (#NOTE wip...)
 
 * tbd... design `index.md` makes all sys init:
   * [ ] get req data from `dataapi.renware.eu`
@@ -40,6 +38,8 @@
   * [ ] save final `JSON` files in `doc_src/data`
   * [ ] create data variables in `mkdocs.yml` that will be accesed in markdown pages (consider an extension of `mkdocs.yml`)
 
+
+* ... 230815piu_a created a working file `product_categories.md` with _Product business categories_ as defined in `products_register.json` (from dataapi.renware.eu). Unreferentiated yet, for work purposes.
 
 * 230807piu_c corrections and facelifts for site skeleton
 * 230807piu_b make first level navigation structure
