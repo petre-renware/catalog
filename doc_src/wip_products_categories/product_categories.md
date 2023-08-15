@@ -1,0 +1,25 @@
+
+# Catalog categories
+
+
+## Products
+
+* former `section_category`*
+* this is the only existing information, used both "name" and "code"
+* number of entries = 8
+
+
+```
+
+BUSINESS CORE OPERATIONS
+BUSINESS ANALYTICS
+BUSINESS SUPPORT OPERATIONS
+MIDDLE TIER DISTRIBUTED COMPUTING FRAMEWORKS
+MIDDLE TIER IDENTITY MANAGEMENT
+MIDDLE TIER DATA GUARDING & ACCESS
+IN RESEARCH AREAS IN WORK
+EMBEDDED & INTERNET OF THINGS SYSTEMS SECURITY, PROTECTION & SUPPORT
+
+```
+
+
